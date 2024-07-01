@@ -1,0 +1,12 @@
+__pycache__/
+collision/
+disparity/
+lab2/
+vot2014/
+toolkit/
+workspace/
+dataset/
+venv/
+*.zip
+*.pth
+.DS_Store
